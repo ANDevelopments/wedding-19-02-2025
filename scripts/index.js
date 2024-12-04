@@ -72,12 +72,12 @@ const animateHero = ()=> {
     .to(hero.media, {yPercent: 0}, 2)
 }
 
-function copyTextArtem() {
-    navigator.clipboard.writeText("+79128000198");
+function copyTextAlex() {
+    navigator.clipboard.writeText("89995856669");
     alert("Номер телефона скопирован");
 }
-function copyTextSabina() {
-    navigator.clipboard.writeText("+79226761470");
+function copyTextPolya() {
+    navigator.clipboard.writeText("89518002972");
     alert("Номер телефона скопирован");
 }
 
