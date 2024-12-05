@@ -1,8 +1,4 @@
 @font-face {
-    font-family: 'BodegaScript';
-    src: url('./fonts/BodegaScript.ttf') format('truetype');
-}
-@font-face {
     font-family: 'eurofurence';
     src: url('./fonts/eurofurence.ttf') format('truetype');
 }
@@ -521,7 +517,7 @@ span {
         width: 80%;
     }
     .rsvp_container {
-        width: 100%;
+        width: 80%;
     }
     .preloader_text {
       width: 90%;
