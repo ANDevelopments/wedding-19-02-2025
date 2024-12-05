@@ -520,6 +520,9 @@ span {
     .banket_map_wrapper {
         width: 80%;
     }
+    .rsvp_container {
+        width: 100%;
+    }
     .preloader_text {
       width: 90%;
     }
